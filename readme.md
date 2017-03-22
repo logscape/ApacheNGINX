@@ -29,4 +29,4 @@ Default NGINX configuration is supported as standard.
 # Apache
 Apache installations will need to be configured to use the `combined` log format, you can find information on that [here](https://httpd.apache.org/docs/2.4/logs.html#accesslog).
 
-![](screenshots/www- home.png)
+![](https://github.com/logscape/ApacheNGINX/blob/master/screenshots/www-%20home.png?raw=true)
