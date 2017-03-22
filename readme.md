@@ -7,7 +7,7 @@ NGINX log formats will match out of the box, whereas Apache installations will n
 Read [How to deploy](http://logscape.github.io/deploy.html) for basic App installation instructions  
 Read [How to import data](http://logscape.github.io/ds-add.html) to learn about data sources
 
-Download [the App](https://github.com/logscape/apacheNginx/raw/master/dist/WebLogsApp-1.0.zip).
+Download [the App](https://github.com/logscape/ApacheNGINX/blob/master/ApacheNGINXApp-1.0.zip?raw=true).
 
 # Access Log Format
 The expected log format is as follows
